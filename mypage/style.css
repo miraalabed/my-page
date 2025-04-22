@@ -1,0 +1,218 @@
+body {
+	margin: 0%;
+	background-color: whitesmoke;
+}
+
+header {
+	text-align: center;
+	background-color: steelblue;
+	color: ghostwhite;
+	padding: 0.5%;
+}
+
+h4 {
+	color: rgb(19, 19, 19);
+	align-items: center;
+	text-align: center;
+}
+
+.input {
+	text-align: justify;
+	text-justify: inter-word;
+	position: absolute;
+	top: 37%;
+	left: 50%;
+	box-shadow: 2px 2px 5px steelblue;
+	background-color: none;
+	padding-bottom: 1%;
+	padding: 1%;
+	width: 20%;
+
+}
+
+.p {
+	align-items: center;
+	position: absolute;
+	top: 40%;
+	left: 15%;
+	width: 31%;
+
+}
+
+ input[type=text] {
+	width: 100%;
+	box-shadow: 2px 2px 5px steelblue;
+	border: none;
+	background-color: whitesmoke;
+
+}
+input[type=password] {
+	width: 100%;
+	box-shadow: 2px 2px 5px steelblue;
+	border: none;
+	background-color: whitesmoke;
+
+}
+
+ input[type=date] {
+	width: 90%;
+	box-shadow: 2px 2px 5px steelblue;
+	border: none;
+	background-color: whitesmoke;
+
+}
+
+button {
+	box-shadow: 2px 2px 5px steelblue;
+	border: 1px solid steelblue;
+	border-radius: 1px;
+	background-color: steelblue;
+	width: 146.5px;
+	color: white;
+	border-radius: 5px;
+
+}
+button:hover {
+
+	border: 1px solid rgb(84, 141, 188);
+	border-radius: 1px;
+	background-color: rgb(84, 141, 188);
+	color: white;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.list {
+	border: none;
+	cursor: pointer;
+	position: absolute;
+	top: 8%;
+	right: 2%;
+}
+
+.list:hover {
+	color: white;
+}
+
+.op {
+	background-color: steelblue;
+	width: 10.2%;
+	color: white;
+	border-radius: 5px;
+	position: absolute;
+	top: 12%;
+	right: 3%;
+	text-align: center;
+	display: none;
+}
+
+.op button {
+	background-color: steelblue;
+	width: 100%;
+	color: white;
+	border-radius: 0%;
+		box-shadow: none;
+
+	padding: 2%;
+}
+
+.op button:hover {
+	background-color: rgb(58, 109, 152);
+	border-radius: 0%;
+		box-shadow: none;
+
+}
+
+.back {
+	width: 100px;
+	border: none;
+	box-shadow: 2px 2px 5px whitesmoke;
+	background-color: whitesmoke;
+	color: steelBlue;
+}
+
+.back:hover {
+	width: 100px;
+	border: none;
+	box-shadow: 2px 2px 5px floralwhite;
+	background-color: floralwhite;
+	color: steelBlue;
+
+}
+
+.pic {
+	width: 100%;
+
+
+}
+
+.side {
+	padding-left: 0.5;
+	padding-right: 0.5;
+	display: block;
+	content: center;
+	text-align: center;
+	position: fixed;
+	width: 130px;
+	padding-top: 2%;
+	background-color: whitesmoke;
+	box-shadow: 1px 2px 5px lightblue;
+	min-height: 100%;
+}
+
+.signup {
+	text-align: center;
+	text-justify: inter-word;
+	align-items: center;
+	content: center;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	box-shadow: 2px 2px 5px steelblue;
+
+	background-color: none;
+	padding-bottom: 1%;
+	padding: 1%;
+	width: 17%;
+	height: 45%;
+
+}
+
+.newPass {
+	text-align: center;
+	text-justify: inter-word;
+	align-items: center;
+	content: center;
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	box-shadow: 2px 2px 5px steelblue;
+	background-color: none;
+	padding-bottom: 1%;
+	padding: 2%;
+	width: 17%;
+	height: 35%;
+}
+
+.welcomeBack {
+
+	text-align: center;
+	text-justify: inter-word;
+	align-items: center;
+	content: center;
+	position: absolute;
+	top: 30%;
+	left: 33%;
+	box-shadow: 2px 2px 5px solid steelblue;
+	color: whitesmoke;
+	background-color: steelblue;
+	padding-bottom: 1%;
+	padding: 1%;
+	width: 15%;
+	height: 45%;
+}
+
+td {
+	padding-bottom: 3.2%;
+	width: 10%;
+}
